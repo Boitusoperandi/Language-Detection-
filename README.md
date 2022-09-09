@@ -9,5 +9,5 @@ You must hit  the keys (CNTRL+F) and place the 639-1 code (which consists of 2 l
 
 
 I've attached an excel sheet with 639-1 Codes as well for reference consisting of 2 sheets.
-  One has only the Python 639-1 codes (55 of them) 
+  One has only the Python 639-1 codes (55 of them),  
   the other has all ISO codes 
